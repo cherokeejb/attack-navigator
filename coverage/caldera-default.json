@@ -1,6 +1,6 @@
 {
   "version": "2.2",
-  "name": "All-Abilities",
+  "name": "Caldera (with default agent, Sandcat)",
   "description": "full set of techniques available",
   "domain": "mitre-enterprise",
   "techniques": [
